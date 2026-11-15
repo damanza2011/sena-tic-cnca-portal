@@ -1,0 +1,678 @@
+[
+  {
+    "id": "adso-228106",
+    "code": "ADSO-228106",
+    "title": "Tecnólogo en Análisis y Desarrollo de Software",
+    "level": "Tecnólogo",
+    "category": "Desarrollo de Software",
+    "modality": "Presencial Sede TIC",
+    "shift": "Diurna (Mañana)",
+    "schedule": "Lunes a Viernes 6:00 a.m. - 12:00 m.",
+    "duration": "27 meses (18 lectiva + 9 productiva)",
+    "campus": "Sede TIC CNCA - Cra 54 # 68-80, Bloque C Lab 402",
+    "status": "open",
+    "statusLabel": "Inscripciones Abiertas",
+    "totalSlots": 35,
+    "availableSlots": 12,
+    "startDate": "1 de Febrero 2026",
+    "applicationDeadline": "25 de Noviembre 2026",
+    "featured": true,
+    "summary": "Formación integral en diseño de arquitecturas de software, desarrollo backend con Node.js/Python, frontend reactivo con React/TypeScript, bases de datos SQL/NoSQL y metodologías ágiles Scrum/DevOps.",
+    "skills": ["JavaScript", "TypeScript", "React", "Node.js", "Python", "SQL", "Git", "Docker", "Scrum"],
+    "whatYouLearn": [
+      "Levantamiento de requerimientos con UML y especificaciones IEEE 830",
+      "Modelado de bases de datos relacionales (PostgreSQL) y no relacionales (MongoDB)",
+      "Desarrollo de APIs RESTful seguras con autenticación JWT y microservicios",
+      "Construcción de aplicaciones web interactivas con React, Next.js y Tailwind CSS",
+      "Despliegue continuo con GitHub Actions y contenedores Docker"
+    ],
+    "graduateProfile": "El tecnólogo ADSO está capacitado para analizar, diseñar, codificar, probar e implantar soluciones informáticas robustas y escalables conforme a las normas y estándares de la industria nacional e internacional.",
+    "jobRoles": [
+      "Desarrollador Fullstack Junior",
+      "Desarrollador Frontend React",
+      "Desarrollador Backend Node / Python",
+      "Analista de Requerimientos y QA Tester"
+    ],
+    "averageSalary": "$ 2.500.000 - $ 4.200.000 COP",
+    "requirements": [
+      "Título de Bachiller Académico o Comercial",
+      "Pruebas de Estado ICFES / Saber 11 presentadas",
+      "Mayor de 16 años",
+      "Superar prueba de aptitud en plataforma SofiaPlus / Betowa"
+    ],
+    "syllabus": [
+      {
+        "phase": "Fase 1: Análisis",
+        "title": "Ingeniería de Requerimientos y Lógica",
+        "modules": ["Fundamentos de Algoritmia y Pseudocódigo", "Ingeniería de Software y Modelado UML", "Fundamentos de Bases de Datos"]
+      },
+      {
+        "phase": "Fase 2: Diseño",
+        "title": "Arquitectura y Experiencia de Usuario",
+        "modules": ["Diseño UX/UI con Figma", "Arquitectura de Software Monolítica vs Microservicios", "Diseño Lógico y Físico de Datos"]
+      },
+      {
+        "phase": "Fase 3: Desarrollo",
+        "title": "Construcción Fullstack",
+        "modules": ["Frontend con HTML5, CSS3, JS Moderno y React", "Backend con Python/FastAPI y Node/Express", "Integración de APIs y Seguridad Web"]
+      },
+      {
+        "phase": "Fase 4: Pruebas y Despliegue",
+        "title": "QA, CI/CD y Puesta en Producción",
+        "modules": ["Pruebas Unitarias y de Integración (Jest, Cypress)", "Contenedores Docker y Despliegue en Cloud", "Etapa Productiva en Empresa Aliada"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "ciber-217201",
+    "code": "CIBER-217201",
+    "title": "Tecnólogo en Ciberseguridad y Hacking Ético",
+    "level": "Tecnólogo",
+    "category": "Ciberseguridad",
+    "modality": "Presencial Sede TIC",
+    "shift": "Nocturna",
+    "schedule": "Lunes a Viernes 6:00 p.m. - 10:00 p.m.",
+    "duration": "27 meses (18 lectiva + 9 productiva)",
+    "campus": "Sede TIC CNCA - Cyber Range Lab 301",
+    "status": "closing_soon",
+    "statusLabel": "Últimos 4 Cupos",
+    "totalSlots": 30,
+    "availableSlots": 4,
+    "startDate": "1 de Febrero 2026",
+    "applicationDeadline": "20 de Noviembre 2026",
+    "featured": true,
+    "summary": "Especialízate en análisis de vulnerabilidades, auditorías de seguridad informática, respuesta a incidentes (CSIRT/SOC), criptografía y defensa perimetral de infraestructuras críticas.",
+    "skills": ["Kali Linux", "Wireshark", "Nmap", "Metasploit", "Python Scripting", "Firewalls", "SIEM (Splunk)", "ISO 27001"],
+    "whatYouLearn": [
+      "Pruebas de penetración controladas (Ethical Hacking) en sistemas y redes",
+      "Monitoreo y análisis de eventos de seguridad en centros de operaciones (SOC)",
+      "Análisis forense digital y recolección de evidencias computacionales",
+      "Configuración de IDS/IPS, WAF y políticas de seguridad bajo ISO 27001",
+      "Seguridad en entornos Cloud (AWS Security & Azure Defender)"
+    ],
+    "graduateProfile": "Profesional técnico capaz de implementar controles de seguridad informática, detectar vectores de ataque, evaluar riesgos y proteger la confidencialidad, integridad y disponibilidad de la información empresarial.",
+    "jobRoles": [
+      "Analista SOC Tier 1/2",
+      "Pentester Junior / Analista de Vulnerabilidades",
+      "Administrador de Seguridad Perimetral",
+      "Consultor Junior de Seguridad de la Información"
+    ],
+    "averageSalary": "$ 3.000.000 - $ 5.500.000 COP",
+    "requirements": [
+      "Bachiller culminado y certificado",
+      "Pruebas Saber 11 presentadas",
+      "Conocimientos básicos en redes y sistemas operativos",
+      "Superar prueba de admisión y entrevista"
+    ],
+    "syllabus": [
+      {
+        "phase": "Fase 1: Fundamentos",
+        "title": "Redes TCP/IP y Sistemas Operativos",
+        "modules": ["Protocolos de Comunicación y Enrutamiento", "Administración de Linux Server y Windows Server", "Scripting defensivo con Bash y Python"]
+      },
+      {
+        "phase": "Fase 2: Defensa",
+        "title": "Seguridad Perimetral y Criptografía",
+        "modules": ["Configuración de Firewalls Next-Gen y VPNs", "Criptografía simétrica, asimétrica y firmas digitales", "Gestión de Identidades y Control de Acceso (IAM)"]
+      },
+      {
+        "phase": "Fase 3: Ofensiva y Monitoreo",
+        "title": "Pentesting y Operación de SOC",
+        "modules": ["Metodologías OWASP y Hacking Ético", "Análisis con SIEM y respuesta ante incidentes", "Hardening de servidores y contenedores"]
+      },
+      {
+        "phase": "Fase 4: Gobernanza",
+        "title": "Cumplimiento y Forense",
+        "modules": ["Normativa ISO/IEC 27001 y Ley de Protección de Datos", "Informática Forense y Cadena de Custodia", "Pasantía empresarial remunerada"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "ia-331001",
+    "code": "IA-331001",
+    "title": "Tecnólogo en Inteligencia Artificial y Machine Learning Aplicado",
+    "level": "Tecnólogo",
+    "category": "Inteligencia Artificial",
+    "modality": "Híbrido",
+    "shift": "Mixta (Tarde)",
+    "schedule": "Lunes a Viernes 1:00 p.m. - 6:00 p.m.",
+    "duration": "27 meses (18 lectiva + 9 productiva)",
+    "campus": "Sede TIC CNCA - Laboratorio de Computación Avanzada y GPU",
+    "status": "open",
+    "statusLabel": "Inscripciones Abiertas",
+    "totalSlots": 30,
+    "availableSlots": 18,
+    "startDate": "15 de Febrero 2026",
+    "applicationDeadline": "30 de Noviembre 2026",
+    "featured": true,
+    "summary": "Diseña modelos de aprendizaje automático predictivos, visión por computadora, procesamiento de lenguaje natural (NLP) e integración de Modelos de Lenguaje Grande (LLMs) en sistemas productivos.",
+    "skills": ["Python", "TensorFlow", "PyTorch", "Scikit-Learn", "Pandas", "FastAPI", "OpenCV", "LangChain", "Gemini API"],
+    "whatYouLearn": [
+      "Tratamiento, limpieza y feature engineering de grandes volúmenes de datos",
+      "Modelos de regresión, clasificación y clustering supervisados y no supervisados",
+      "Redes neuronales convolucionales (CNN) para visión artificial y reconocimiento de patrones",
+      "Implementación de agentes inteligentes y pipelines RAG con LLMs",
+      "Despliegue de modelos de IA como microservicios con Docker y Vertex AI"
+    ],
+    "graduateProfile": "Capacitado para procesar conjuntos de datos masivos, entrenar y evaluar modelos de Machine Learning y Deep Learning, y construir APIs inteligentes orientadas a la automatización de procesos en sectores productivos.",
+    "jobRoles": [
+      "Desarrollador de IA Junior",
+      "Ingeniero de Machine Learning Junior",
+      "Asistente de Ciencia de Datos",
+      "Integrador de Soluciones LLM / GenAI"
+    ],
+    "averageSalary": "$ 3.200.000 - $ 5.800.000 COP",
+    "requirements": [
+      "Bachiller con afinidad demostrada en matemáticas y lógica",
+      "Pruebas Saber 11",
+      "Prueba técnica virtual aprobada"
+    ],
+    "syllabus": [
+      {
+        "phase": "Fase 1: Datos y Álgebra",
+        "title": "Fundamentos Matemáticos y Data Wrangling",
+        "modules": ["Álgebra Lineal y Cálculo para IA", "Programación científica con Python, NumPy y Pandas", "Visualización de Datos con Seaborn y Plotly"]
+      },
+      {
+        "phase": "Fase 2: Aprendizaje Estadístico",
+        "title": "Machine Learning Tradicional",
+        "modules": ["Modelos supervisados (Árboles, Random Forest, XGBoost)", "Modelos no supervisados (K-Means, PCA)", "Métricas de evaluación y validación cruzada"]
+      },
+      {
+        "phase": "Fase 3: Deep Learning & GenAI",
+        "title": "Redes Neuronales y LLMs",
+        "modules": ["Redes Neuronales con PyTorch y TensorFlow", "Visión Artificial con OpenCV", "NLP, Embeddings y Retrieval-Augmented Generation (RAG)"]
+      },
+      {
+        "phase": "Fase 4: MLOps",
+        "title": "Puesta en Producción y Gobernanza",
+        "modules": ["Versionamiento de modelos con MLflow", "Serving de inferencias con FastAPI y Docker", "Ética, sesgos y privacidad en IA"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "redes-228114",
+    "code": "REDES-228114",
+    "title": "Tecnólogo en Gestión de Redes de Datos e Infraestructura Cloud",
+    "level": "Tecnólogo",
+    "category": "Infraestructura y Redes",
+    "modality": "Presencial Sede TIC",
+    "shift": "Diurna (Mañana)",
+    "schedule": "Lunes a Viernes 6:00 a.m. - 12:00 m.",
+    "duration": "27 meses (18 lectiva + 9 productiva)",
+    "campus": "Sede TIC CNCA - Academia Cisco Lab 204",
+    "status": "open",
+    "statusLabel": "Inscripciones Abiertas",
+    "totalSlots": 32,
+    "availableSlots": 9,
+    "startDate": "1 de Febrero 2026",
+    "applicationDeadline": "28 de Noviembre 2026",
+    "featured": false,
+    "summary": "Administra infraestructura de red empresarial bajo estándares Cisco CCNA, fibra óptica, virtualización de servidores, redes inalámbricas Wi-Fi 6 y servicios en la nube pública.",
+    "skills": ["Cisco CCNA", "Routing & Switching", "Linux Enterprise", "IPv6", "AWS", "Terraform", "Cableado Estructurado", "VMware"],
+    "whatYouLearn": [
+      "Diseño e implementación de redes LAN/WAN jerárquicas con switches y routers Cisco",
+      "Configuración de protocolos de enrutamiento dinámico (OSPF, BGP)",
+      "Certificación y conectorización de cableado estructurado Categoría 6A/7 y fibra óptica",
+      "Virtualización de centros de cómputo con VMware vSphere y Proxmox",
+      "Automatización de infraestructura con Ansible y CloudFormation"
+    ],
+    "graduateProfile": "Experto en diseñar, configurar, operar y mantener redes de telecomunicaciones, servidores locales y arquitecturas híbridas cloud, garantizando alta disponibilidad y tolerancia a fallos.",
+    "jobRoles": [
+      "Administrador de Redes y Telecomunicaciones",
+      "Ingeniero de Soporte NOC (Network Operations Center)",
+      "Administrador de Infraestructura Cloud Junior",
+      "Especialista en Cableado Estructurado y Fibra"
+    ],
+    "averageSalary": "$ 2.200.000 - $ 3.800.000 COP",
+    "requirements": [
+      "Bachiller completo",
+      "Pruebas Saber 11",
+      "Edad mínima: 16 años"
+    ],
+    "syllabus": [
+      {
+        "phase": "Fase 1: Fundamentos de Networking",
+        "title": "Modelo OSI y Capa de Enlace",
+        "modules": ["Arquitecturas de red y topologías", "Subnetting IPv4 y direccionamiento IPv6", "Configuración de switches y VLANs"]
+      },
+      {
+        "phase": "Fase 2: Enrutamiento Avanzado",
+        "title": "Routers e Interconectividad",
+        "modules": ["Enrutamiento estático y dinámico con OSPF", "Listas de Control de Acceso (ACLs) y NAT", "Tecnologías WAN y túneles VPN"]
+      },
+      {
+        "phase": "Fase 3: Servidores y Cloud",
+        "title": "Sistemas Híbridos",
+        "modules": ["Servicios de directorio activo y DNS/DHCP en Linux/Windows", "Virtualización de centros de datos", "Fundamentos de AWS Cloud Practitioner"]
+      },
+      {
+        "phase": "Fase 4: Automatización de Redes",
+        "title": "DevNet y Monitoreo",
+        "modules": ["Programabilidad de redes con Python y Netmiko", "Herramientas de monitoreo (Zabbix, PRTG)", "Etapa Práctica en Operadores o ISPs"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "juegos-228120",
+    "code": "JUEGOS-228120",
+    "title": "Tecnólogo en Desarrollo de Videojuegos y Entornos Interactivos",
+    "level": "Tecnólogo",
+    "category": "Multimedia & Videojuegos",
+    "modality": "Híbrido",
+    "shift": "Mixta (Tarde)",
+    "schedule": "Lunes a Viernes 1:00 p.m. - 6:00 p.m.",
+    "duration": "27 meses (18 lectiva + 9 productiva)",
+    "campus": "Sede TIC CNCA - Media Lab & Render Farm",
+    "status": "open",
+    "statusLabel": "Inscripciones Abiertas",
+    "totalSlots": 28,
+    "availableSlots": 14,
+    "startDate": "10 de Febrero 2026",
+    "applicationDeadline": "30 de Noviembre 2026",
+    "featured": false,
+    "summary": "Crea videojuegos 2D y 3D en motores Unity y Unreal Engine, diseño de niveles, modelado y texturizado 3D en Blender, animación y físicas para PC, consolas y dispositivos móviles.",
+    "skills": ["Unity", "C#", "Unreal Engine 5", "C++", "Blender", "Game Design", "Shaders", "Substance Painter"],
+    "whatYouLearn": [
+      "Fundamentos de Game Design: mecánicas, dinámicas, estética y narrativas",
+      "Programación de jugabilidad, inteligencia artificial de enemigos y físicas en C#",
+      "Modelado 3D poligonal, escultura digital y bake de mapas de normales en Blender",
+      "Efectos visuales (VFX), partículas y sistemas de iluminación con Lumen/Nanite",
+      "Optimización de rendimiento y publicación en Steam y Google Play Store"
+    ],
+    "graduateProfile": "El egresado domina el ciclo completo de desarrollo de un videojuego o experiencia interactiva en Realidad Virtual y Aumentada, desde el concept art y prototipado rápido hasta la compilación final.",
+    "jobRoles": [
+      "Gameplay Programmer (Unity / Unreal)",
+      "Artista Técnico 3D",
+      "Diseñador de Niveles (Level Designer)",
+      "Desarrollador de Simulaciones VR/AR"
+    ],
+    "averageSalary": "$ 2.400.000 - $ 4.500.000 COP",
+    "requirements": [
+      "Bachiller completo",
+      "Pruebas Saber 11",
+      "Afinidad creativa y lógica de programación"
+    ],
+    "syllabus": [
+      {
+        "phase": "Fase 1: Pre-producción",
+        "title": "Diseño y Prototipado 2D",
+        "modules": ["Game Design Document (GDD)", "Pixel art y arte 2D conceptual", "Programación orientada a objetos para videojuegos"]
+      },
+      {
+        "phase": "Fase 2: Motores de Juego",
+        "title": "Programación en Unity",
+        "modules": ["Arquitectura basada en componentes", "Sistemas de inventario, guardado y UI", "Audio espacial e integración con FMOD"]
+      },
+      {
+        "phase": "Fase 3: Entornos 3D y Unreal",
+        "title": "Gráficos de Nueva Generación",
+        "modules": ["Pipeline de modelado en Blender", "Blueprints y programación en C++ en Unreal Engine 5", "Sistemas de partículas y shaders"]
+      },
+      {
+        "phase": "Fase 4: Producción Final",
+        "title": "Monetización y Publicación",
+        "modules": ["Optimización de framerate y memoria", "Integración multijugador online con Photon", "Práctica en estudios de desarrollo de videojuegos"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "movil-233108",
+    "code": "MOVIL-233108",
+    "title": "Técnico en Programación de Aplicaciones Móviles",
+    "level": "Técnico",
+    "category": "Desarrollo de Software",
+    "modality": "Presencial Sede TIC",
+    "shift": "Diurna (Mañana)",
+    "schedule": "Lunes a Viernes 7:00 a.m. - 1:00 p.m.",
+    "duration": "15 meses (9 lectiva + 6 productiva)",
+    "campus": "Sede TIC CNCA - Mobile Development Hub Lab 102",
+    "status": "closing_soon",
+    "statusLabel": "Últimos 3 Cupos",
+    "totalSlots": 30,
+    "availableSlots": 3,
+    "startDate": "1 de Febrero 2026",
+    "applicationDeadline": "22 de Noviembre 2026",
+    "featured": true,
+    "summary": "Construye apps nativas y multiplataforma para Android e iOS utilizando Flutter (Dart) y React Native, consumiendo servicios en la nube de Firebase y bases de datos locales SQLite.",
+    "skills": ["Flutter", "Dart", "React Native", "Firebase", "REST APIs", "Git", "Google Play Console", "SQLite"],
+    "whatYouLearn": [
+      "Diseño de interfaces móviles modernas siguiendo guías Material 3 y Human Interface",
+      "Gestión de estado reactivo con Riverpod, BLoC y Zustand",
+      "Persistencia local con Hive, SQLite y sincronización offline-first",
+      "Autenticación con OAuth, notificaciones push (FCM) y geolocalización GPS",
+      "Despliegue y pruebas en dispositivos reales y emuladores"
+    ],
+    "graduateProfile": "Técnico preparado para maquetar, codificar e integrar interfaces móviles optimizadas para teléfonos y tablets, conectándolas con APIs RESTful y servicios en la nube.",
+    "jobRoles": [
+      "Desarrollador Flutter Junior",
+      "Desarrollador React Native",
+      "Maquetador Mobile UX/UI",
+      "Tester de aplicaciones móviles"
+    ],
+    "averageSalary": "$ 1.800.000 - $ 2.800.000 COP",
+    "requirements": [
+      "Grado 9° o 11° aprobado",
+      "Mayor de 16 años",
+      "Prueba de selección SENA"
+    ],
+    "syllabus": [
+      {
+        "phase": "Fase 1: Fundamentos",
+        "title": "Programación con Dart y JS",
+        "modules": ["Estructuras de control y POO", "Conceptos de UI adaptativa móvil", "Control de versiones con Git y GitHub"]
+      },
+      {
+        "phase": "Fase 2: Desarrollo Multiplataforma",
+        "title": "Flutter & Firebase",
+        "modules": ["Widgets y layouts complejos", "Conexión a Firebase Auth y Firestore", "Consumo de APIs REST con Dio y Retrofit"]
+      },
+      {
+        "phase": "Fase 3: Publicación y Práctica",
+        "title": "Optimización y Despliegue",
+        "modules": ["Pruebas de usabilidad y rendimiento", "Generación de APKs, AAB y firma de apps", "Etapa productiva remunerada en empresa de software"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "iot-228116",
+    "code": "IOT-228116",
+    "title": "Técnico en Mantenimiento de Equipos de Cómputo e IoT",
+    "level": "Técnico",
+    "category": "Automatización & Cloud",
+    "modality": "Presencial Sede TIC",
+    "shift": "Nocturna",
+    "schedule": "Lunes a Viernes 6:30 p.m. - 10:00 p.m.",
+    "duration": "15 meses (9 lectiva + 6 productiva)",
+    "campus": "Sede TIC CNCA - Laboratorio de Hardware y Robótica",
+    "status": "open",
+    "statusLabel": "Inscripciones Abiertas",
+    "totalSlots": 25,
+    "availableSlots": 11,
+    "startDate": "10 de Febrero 2026",
+    "applicationDeadline": "28 de Noviembre 2026",
+    "featured": false,
+    "summary": "Mantenimiento preventivo y correctivo de hardware, ensamble de computadores gamers y servidores, electrónica básica, microcontroladores ESP32/Arduino y sensórica para Internet de las Cosas.",
+    "skills": ["Hardware PC", "Electrónica Básica", "ESP32", "Arduino", "MQTT", "Sistemas Operativos", "Redes LAN"],
+    "whatYouLearn": [
+      "Diagnóstico con multímetro y osciloscopio de fallas a nivel componente",
+      "Montaje, mantenimiento térmico y optimización de computadores y servidores",
+      "Programación de sensores de temperatura, presencia y actuadores con ESP32",
+      "Comunicación inalámbrica de dispositivos IoT vía Wi-Fi, Bluetooth y protocolo MQTT",
+      "Instalación y configuración de sistemas operativos Windows y distribuciones Linux"
+    ],
+    "graduateProfile": "Capacidad operativa para ensamblar, diagnosticar y reparar equipos computacionales e implementar nodos de sensórica y telemetría para domótica e industria 4.0.",
+    "jobRoles": [
+      "Técnico de Soporte en Hardware y Sistemas",
+      "Instalador de Soluciones IoT y Domótica",
+      "Auxiliar de Mantenimiento Informático",
+      "Ensamblador de Equipos Especializados"
+    ],
+    "averageSalary": "$ 1.600.000 - $ 2.400.000 COP",
+    "requirements": [
+      "Grado 9° o bachiller aprobado",
+      "Mayor de 15 años",
+      "Documento de identidad vigente"
+    ],
+    "syllabus": [
+      {
+        "phase": "Fase 1: Hardware",
+        "title": "Arquitectura y Ensamble",
+        "modules": ["Componentes de cómputo y compatibilidad", "Mantenimiento preventivo y lubricación de ventilación", "Instalación de BIOS/UEFI y particionado"]
+      },
+      {
+        "phase": "Fase 2: Electrónica e IoT",
+        "title": "Microcontroladores y Sensores",
+        "modules": ["Circuitos impresos y soldadura con estaño", "Programación en C++ para ESP32", "Conectividad MQTT con dashboards en la nube"]
+      },
+      {
+        "phase": "Fase 3: Servicio y Práctica",
+        "title": "Mesa de Ayuda y Soporte Técnico",
+        "modules": ["Protocolos ITIL y gestión de tickets", "Soporte remoto y diagnóstico rápido", "Práctica empresarial certificada"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "esp-cloud-331012",
+    "code": "ESP-CLOUD-331012",
+    "title": "Especialización Tecnológica en Arquitectura Cloud (AWS & Azure)",
+    "level": "Especialización Tecnológica",
+    "category": "Automatización & Cloud",
+    "modality": "100% Virtual",
+    "shift": "Fines de Semana",
+    "schedule": "Sábados 8:00 a.m. - 2:00 p.m. (Sincrónico + Asincrónico)",
+    "duration": "6 meses (480 horas)",
+    "campus": "Campus Virtual SENA Sede TIC",
+    "status": "open",
+    "statusLabel": "Inscripciones Abiertas",
+    "totalSlots": 40,
+    "availableSlots": 21,
+    "startDate": "1 de Marzo 2026",
+    "applicationDeadline": "15 de Diciembre 2026",
+    "featured": true,
+    "summary": "Diseña arquitecturas en la nube altamente disponibles, tolerantes a fallos y costo-eficientes con AWS y Microsoft Azure, utilizando infraestructura como código (Terraform) y Kubernetes.",
+    "skills": ["AWS Solutions Architect", "Azure Cloud", "Terraform", "Kubernetes", "Docker", "DevOps", "FinOps", "CI/CD"],
+    "whatYouLearn": [
+      "Patrones de arquitectura Cloud Well-Architected Framework",
+      "Aprovisionamiento declarativo de infraestructura con Terraform y Pulumi",
+      "Orquestación de microservicios con clusters Amazon EKS y Azure AKS",
+      "Estrategias de migración On-Premise a Nube pública e híbrida",
+      "Optimización de costos en la nube (FinOps) y gobierno multi-cuenta"
+    ],
+    "graduateProfile": "Especialista enfocado en planificar y construir la estrategia tecnológica en la nube de corporaciones medianas y grandes, optimizando costes, escalabilidad y seguridad de misión crítica.",
+    "jobRoles": [
+      "Cloud Architect Junior / Mid",
+      "Ingeniero DevOps Cloud",
+      "Consultor de Migración a Cloud",
+      "Especialista en Infraestructura Kubernetes"
+    ],
+    "averageSalary": "$ 4.500.000 - $ 7.500.000 COP",
+    "requirements": [
+      "Título de Tecnólogo o Profesional en áreas afines a Sistemas, Redes o Software",
+      "Mínimo 6 meses de experiencia demostrable en administración de servidores o desarrollo",
+      "Hoja de vida y prueba técnica"
+    ],
+    "syllabus": [
+      {
+        "phase": "Módulo 1: Fundamentos Cloud Avanzados",
+        "title": "Servicios Core en AWS y Azure",
+        "modules": ["Compute (EC2, Lambda, VMs)", "VPC, Peering, Transit Gateway y VPNs Cloud", "Almacenamiento S3, Blob y bases de datos administradas (RDS, DynamoDB)"]
+      },
+      {
+        "phase": "Módulo 2: IaC y DevOps",
+        "title": "Automatización con Terraform",
+        "modules": ["Módulos y estados remotos en Terraform", "Pipelines CI/CD con GitHub Actions y AWS CodePipeline", "Políticas como código (Open Policy Agent)"]
+      },
+      {
+        "phase": "Módulo 3: Contenedores y Kubernetes",
+        "title": "Orquestación Empresarial",
+        "modules": ["Arquitectura interna de Kubernetes (Pods, Services, Ingress)", "Despliegues con Helm Charts", "Service Mesh con Istio y observabilidad con Prometheus/Grafana"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "curso-react-40h",
+    "code": "CURSO-REACT-40H",
+    "title": "Curso Complementario: Frontend Moderno con React 19 y Next.js",
+    "level": "Curso Corto",
+    "category": "Desarrollo de Software",
+    "modality": "100% Virtual",
+    "shift": "Nocturna",
+    "schedule": "Martes y Jueves 7:00 p.m. - 9:30 p.m.",
+    "duration": "48 horas",
+    "campus": "Campus Virtual SENA Sede TIC",
+    "status": "open",
+    "statusLabel": "Inscripciones Abiertas",
+    "totalSlots": 50,
+    "availableSlots": 24,
+    "startDate": "10 de Enero 2026",
+    "applicationDeadline": "20 de Diciembre 2026",
+    "featured": false,
+    "summary": "Actualízate con las últimas tendencias de frontend: Server Components, Server Actions en Next.js 15, TypeScript y diseño responsivo con Tailwind CSS v4.",
+    "skills": ["React 19", "Next.js", "TypeScript", "Tailwind CSS", "Zustand", "Vercel"],
+    "whatYouLearn": [
+      "Hooks modernos (useActionState, useOptimistic, useEffect)",
+      "Enrutamiento App Router y renderizado híbrido (SSR, SSG, ISR)",
+      "Consumo eficiente de datos con caching granular",
+      "Deploy y optimización de imágenes en Vercel"
+    ],
+    "graduateProfile": "Capaz de crear interfaces de usuario con tiempos de carga inferiores a 1 segundo y código TypeScript libre de errores de tipado.",
+    "jobRoles": ["Desarrollador Frontend React"],
+    "averageSalary": "Certificación oficial de habilidades complementarias SENA",
+    "requirements": ["Conocimientos intermedios de HTML, CSS y JavaScript ES6+", "Computador con acceso a internet"],
+    "syllabus": [
+      {
+        "phase": "Semana 1-2",
+        "title": "React 19 y TypeScript",
+        "modules": ["Fundamentos de React 19 y JSX", "Tipado de componentes y props", "Manejo de estado moderno"]
+      },
+      {
+        "phase": "Semana 3-4",
+        "title": "Next.js y Proyecto Final",
+        "modules": ["App Router y Server Components", "Server Actions y validación con Zod", "Despliegue y entrega del portafolio"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "curso-soc-40h",
+    "code": "CURSO-SOC-40H",
+    "title": "Curso Complementario: Operaciones de Ciberdefensa y SOC",
+    "level": "Curso Corto",
+    "category": "Ciberseguridad",
+    "modality": "Híbrido",
+    "shift": "Fines de Semana",
+    "schedule": "Sábados 8:00 a.m. - 1:00 p.m.",
+    "duration": "40 horas",
+    "campus": "Sede TIC CNCA - Cyber Lab",
+    "status": "closing_soon",
+    "statusLabel": "Últimos 2 Cupos",
+    "totalSlots": 20,
+    "availableSlots": 2,
+    "startDate": "17 de Enero 2026",
+    "applicationDeadline": "18 de Noviembre 2026",
+    "featured": false,
+    "summary": "Simulación en vivo de ciberataques en entorno controlado. Aprende a detectar anomalías con Splunk/Wazuh y ejecutar protocolos de contención rápida.",
+    "skills": ["Wazuh SIEM", "Splunk", "MITRE ATT&CK", "Análisis de Logs", "Respuesta a Incidentes"],
+    "whatYouLearn": [
+      "Mapeo de amenazas con la matriz MITRE ATT&CK",
+      "Correlación de eventos de seguridad en tiempo real",
+      "Creación de reglas de detección de malware y ransomware",
+      "Simulación de ejercicios Blue Team vs Red Team"
+    ],
+    "graduateProfile": "Operador preparado para integrarse de inmediato en mesas de analistas de seguridad en centros de operaciones SOC.",
+    "jobRoles": ["Operador SOC Nivel 1"],
+    "averageSalary": "Certificado de aprobación SENA con insignia digital",
+    "requirements": ["Conocimientos básicos de redes TCP/IP y sistemas operativos"],
+    "syllabus": [
+      {
+        "phase": "Módulo 1",
+        "title": "Monitoreo y SIEM",
+        "modules": ["Arquitectura de Wazuh y agentes", "Ingesta y normalización de logs Windows/Linux", "Dashboards y alertas críticas"]
+      },
+      {
+        "phase": "Módulo 2",
+        "title": "Casos Prácticos de Respuesta",
+        "modules": ["Análisis de ataques de fuerza bruta y phishing", "Detección de elevación de privilegios", "Generación de informes ejecutivos de incidentes"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "curso-genai-40h",
+    "code": "CURSO-GENAI-40H",
+    "title": "Curso Complementario: Prompt Engineering y Desarrollo con LLMs",
+    "level": "Curso Corto",
+    "category": "Inteligencia Artificial",
+    "modality": "100% Virtual",
+    "shift": "Nocturna",
+    "schedule": "Lunes y Miércoles 6:30 p.m. - 9:00 p.m.",
+    "duration": "40 horas",
+    "campus": "Campus Virtual SENA Sede TIC",
+    "status": "open",
+    "statusLabel": "Inscripciones Abiertas",
+    "totalSlots": 60,
+    "availableSlots": 35,
+    "startDate": "1 de Febrero 2026",
+    "applicationDeadline": "15 de Diciembre 2026",
+    "featured": true,
+    "summary": "Aprende las técnicas más avanzadas para interactuar y programar con modelos de lenguaje: Chain-of-Thought, Few-Shot, Function Calling, APIs de Gemini y creación de agentes autónomos.",
+    "skills": ["Gemini API", "Prompt Engineering", "Python", "LangChain", "Vector Databases", "Function Calling"],
+    "whatYouLearn": [
+      "Ingeniería de prompts estructurada para desarrolladores y analistas",
+      "Implementación de llamadas a funciones (Tool Calling) en APIs de IA",
+      "Construcción de bots contextuales con memoria y RAG local",
+      "Evaluación y mitigación de alucinaciones en modelos de lenguaje"
+    ],
+    "graduateProfile": "Capacidad para integrar modelos de IA generativa de forma segura y productiva en flujos empresariales y software existente.",
+    "jobRoles": ["Prompt Engineer", "Integrador de IA Generativa"],
+    "averageSalary": "Certificación de curso corto SENA",
+    "requirements": ["Manejo básico de navegador y curiosidad por herramientas de IA"],
+    "syllabus": [
+      {
+        "phase": "Parte 1",
+        "title": "Estrategias de Prompting",
+        "modules": ["Técnicas Zero-shot, Few-shot y ReAct", "Estructuración de salidas JSON estrictas", "System Prompts de alta precisión"]
+      },
+      {
+        "phase": "Parte 2",
+        "title": "Agentes y Programación",
+        "modules": ["Consumo de Gemini API en Python y Node.js", "Conexión con bases de datos vectoriales", "Creación de un asistente conversacional para soporte"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  },
+  {
+    "id": "curso-qa-40h",
+    "code": "CURSO-QA-40H",
+    "title": "Curso Complementario: Automatización de Pruebas QA con Playwright y CI/CD",
+    "level": "Curso Corto",
+    "category": "Desarrollo de Software",
+    "modality": "100% Virtual",
+    "shift": "Mixta (Tarde)",
+    "schedule": "Lunes a Viernes 3:00 p.m. - 5:00 p.m. (2 semanas intensivas)",
+    "duration": "40 horas",
+    "campus": "Campus Virtual SENA Sede TIC",
+    "status": "upcoming",
+    "statusLabel": "Próxima Convocatoria",
+    "totalSlots": 30,
+    "availableSlots": 30,
+    "startDate": "15 de Febrero 2026",
+    "applicationDeadline": "30 de Enero 2026",
+    "featured": false,
+    "summary": "Domina la automatización de pruebas End-to-End (E2E) y de regresión en navegadores modernos usando Playwright, TypeScript e integración continua con GitHub Actions.",
+    "skills": ["Playwright", "TypeScript", "E2E Testing", "GitHub Actions", "Postman", "QA Automation"],
+    "whatYouLearn": [
+      "Creación de suites de pruebas E2E multi-navegador (Chromium, Firefox, WebKit)",
+      "Pruebas de APIs RESTful y validación de esquemas JSON",
+      "Page Object Model (POM) para código de test escalable y limpio",
+      "Generación de reportes automáticos en video y capturas de pantalla de fallos"
+    ],
+    "graduateProfile": "Tester capacitado para automatizar flujos críticos de usuario y garantizar que ningún error pase inadvertido a producción.",
+    "jobRoles": ["QA Automation Engineer Junior", "Tester de Software"],
+    "averageSalary": "Certificación SENA CNCA",
+    "requirements": ["Conocimientos básicos de JavaScript o programación web"],
+    "syllabus": [
+      {
+        "phase": "Semana 1",
+        "title": "Fundamentos de Automatización",
+        "modules": ["Instalación y selectores avanzados en Playwright", "Aserciones y esperas automáticas", "Patrón Page Object Model"]
+      },
+      {
+        "phase": "Semana 2",
+        "title": "Integración y Pipelines",
+        "modules": ["Pruebas de APIs y mocks de red", "Ejecución headless en GitHub Actions", "Análisis de trazas de fallo y reporte"]
+      }
+    ],
+    "directLink": "https://betowa.sena.edu.co/oferta"
+  }
+]
+
